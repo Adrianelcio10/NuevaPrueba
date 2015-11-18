@@ -13,6 +13,6 @@ public class MediaAritmetica {
 	return res;
 	}
 	public static void main(String[] args) {
-		System.out.println("El resultado es:"+MediaAritmetica.getMedia(3, 4, 2));
+		System.out.println("El resultado de la media es:"+MediaAritmetica.getMedia(3, 4, 2));
 	}
 }
